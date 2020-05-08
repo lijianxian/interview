@@ -1,4 +1,4 @@
-package com.jianxian.base;
+package com.jianxian.base.equals;
 
 public class IntegerOrEquals {
     public static void main(String[] args) {

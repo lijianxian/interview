@@ -1,4 +1,4 @@
-package com.jianxian.base;
+package com.jianxian.base.equals;
 
 import java.util.AbstractMap;
 import java.util.HashMap;
