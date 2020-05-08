@@ -1,6 +1,9 @@
 package com.jianxian.oom;
 
 public class JavaVMStackSOF {
+    /**
+     * -Xss128k
+     */
     //    stack : 栈
     //    leak : 泄露
     private int stackLength = 1;
